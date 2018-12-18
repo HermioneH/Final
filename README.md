@@ -1,1 +1,10 @@
 # Final
+Dear D J:
+After teaching us about the snack game,  I wanted to create another game in p5, so I went to do some exercises based on short tutorials online. 
+Then, I found out a two-player game pong game, but that's is much more complex than I thought, I tried so many times but still unable to make the program work out,  so I found another single-player game like the cube-breaker. 
+The tutorial itself is about 2 and a half hours, but it took me nearly 5 hours to get through half of the tutorial. I learn that even a punctuation can cause a mistake and lead the whole program paralysis. 
+I tried my best to pay enough attention and write the program extremely carefully, final I made the game work, somehow.
+The most challenge part is to adjust the movement of the paddle when hitting the edge. I need to do the calculation in order to get the paddle to reach the edge and stop moving off the canvas. Also, making the loop of the brick is also hard, but fortunately I figure it out.
+The program in the folder is the one I finished before the final presentation. After the presentation, I finished the tutorial and make some of my friends play tested, then I fix the program based on the feedback, such as increasing the row of the brick, changing the score position, stopping the game after lose and win and this code is the one I had learned from the snack.
+In the final revised folder, I have my revised version and finally, make the whole game program work out. There is still a bug for the program, which is even the ball hit the brick on the last row by the right corner and the score raise, the brick didn't disappear, but I already feel so happy that I combined what I had learned in class and from tutorial, then finally made a complete game successfully. I want to say thank you for what you teach me for this semester. I really learn a lot from the class. I started from the beginner who had never touch coding to finally can write some program and make that work. I won't accomplish the programming without your help.
+Thank you again and happy holidays!
